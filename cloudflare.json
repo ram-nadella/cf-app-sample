@@ -1,7 +1,7 @@
 {
     "name": "Sample App",
     "description": "Sample CloudFlare with a JS app module",
-    "version": "0.1",
+    "version": "0.2",
     "category": "analytics",
     "main": "public/js/sample_app.js",
     "config":{
