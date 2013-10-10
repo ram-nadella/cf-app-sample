@@ -1,0 +1,16 @@
+{
+    "name": "Sample App",
+    "description": "Sample CloudFlare with a JS app module",
+    "version": "0.1",
+    "category": "analytics",
+    "main": "public/js/sample_app.js",
+    "config":{
+        "details":{
+            "Category": "Analytics",
+            "Language": "English",
+            "Price": "Free to install",
+            "Restrictions": "None",
+            "CloudFlare": "<a href='http://www.cloudflare.com/terms' target='_blank'>Terms of use</a>"
+        },
+    }
+}
